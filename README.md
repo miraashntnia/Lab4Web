@@ -1,12 +1,4 @@
 # Lab4Web
-# Praktikum 4 - Pemrograman Web
-
-```
-Satria Dimas Permana
-312010450
-TI.20.B.2
-Universitas Pelita Bangsa
-```
 
 ## LANGKAH 1
 
